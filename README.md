@@ -23,8 +23,6 @@
 # BA Minors
     + Diego Garcia      - Math Minor       (Timeline Implementation and Breakdowns)
     + Sharman Malhi     - Math Minor       (Linear Regression Graph)
-    + Diego Garcia      - Math Minor       (Timeline Implementation and Breakdowns)
-    + Sharman Malhi     - Math Minor       (Linear Regression Graph)
     + Derrion Parrish   - Graphic Design   (Floor Plan Designs)
 
 
