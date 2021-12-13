@@ -43,17 +43,10 @@ def get_currentWeather():
 
     querystring = { "station": '10637', "start": start, "end": end, "tz": tz }
     headers ={
-        #'x-rapidapi-host': 'meteostat.p.rapidapi.com',
-        #'x-rapidapi-key': 'ecedde975bmshd68d593407c0634p1e90c2jsn8f1f0f5c5e2d'
+        #'x-rapidapi-host': '',
+        #'x-rapidapi-key': ''
 
-        #'x-rapidapi-host': "meteostat.p.rapidapi.com",
-        #'x-rapidapi-key': "8a4e4f6fa6msh31a22a7d4173d98p1d34e0jsn6342ce15ae0c"
-
-        'x-rapidapi-host': "meteostat.p.rapidapi.com",                              #Sharman Malhi API Key 
-        'x-rapidapi-key': "ba7697464emsh40cabed91c904ebp10950ejsnd4c049376a27"      #For presentation or backup
-
-        #'x-rapidapi-host': 'meteostat.p.rapidapi.com',                              # Fresh key
-        #'x-rapidapi-key': '0d8b56da90mshfa799e972a5c581p1c8aaejsn2f8cbc501275       
+     
 
     }
 
